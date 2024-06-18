@@ -18,17 +18,17 @@ body {
 
 }
 
+#rodape {
+    text-align: center;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
-    border: 1px solid red;
     padding: 5px;
 }
 
-.centralizar {
-    text-align: center;
-}
 
 h1 {
     color: #828271;
